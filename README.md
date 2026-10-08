@@ -76,6 +76,19 @@ Screenshots included in this repository demonstrate:
 - Network conversations
 - IPv4 endpoints
 
+## 🖼️ Project Screenshots
+
+### 1. Network Configuration
+![Network Interface Configuration](./01-Kali%20linux%20network%20interface%20configuration.png)
+
+### 2. Routing and Default Gateway
+![Routing and Gateway](./02-Network%20Routing%20and%20Default%20Gateway.png)
+
+### 3. Nmap Port Scanning
+![Nmap Scan](./03-Basic%20Network%20Port%20Scanning.png)
+
+### 4. DNS Analysis
+![DNS Analysis](./04-DNS%20Query%20and%20Response%20for%20example.com%20using%20dig.png)
 ## 📚 Learning Outcomes
 
 Through this lab, I gained practical understanding of:
